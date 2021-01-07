@@ -1,0 +1,78 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+.highlight{
+    color:  #ffa500;
+
+}
+h1{
+    font-size: 50px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    background-color: orange;
+    padding: 20px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left:5%;
+    
+    
+}
+
+.half img{
+    width: 100%;
+   
+}
+
+section{
+    height: 500px;
+    padding: 50px;}
+
+.subtitle{
+    clear: both;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+.text-color{
+    color: midnightblue;
+}
+.fast-box{
+    box-shadow: 5px 5px 5px rgb(212, 211, 211);
+    border-radius: 3px;
+    width: 32%;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    padding-top: 5px;
+    margin: 3px;
+    text-align: center;
+    
+   
+}
+.align{
+    text-align: center;
+}
+.small img{
+    width: 90%;
+    height: 90%;
+    margin: 3px;
+}
+.WORK img{
+   
+    width: 800px;
+    margin-left: 17%;
+}
+.WORK h1{
+    float: left;
+}

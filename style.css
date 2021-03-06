@@ -12,15 +12,7 @@ body{
 h1{
     font-size: 50px;
 }
-.button{
-    text-decoration: none;
-    background-image: linear-gradient(45deg, lightsalmon, tomato);
-    background-color: orange;
-    padding: 20px 40px;
-    border-radius: 5px;
-    color: white;
-    font-weight: 700;
-}
+
 
 .half{
     width: 40%;
@@ -83,41 +75,38 @@ section{
     margin: 3px;
 }
 
-.WORK img{
-   
-    width: 800px;
-    margin-left: 17%;
+.back-one{
+    background-image: url(images/Group_33094_1.png);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center; 
+      
 }
-.WORK{
-    float: left;
-    margin-left: 16%;
-    width: 850px;
-    height: 300px;
-    margin-top:150px;
 
-}
-.inquiry{
-    float: right;
-    margin-right: 50%;
+.workinquary{
+    text-align: center;
+    margin-left: 220px;
+    padding-top: 15px;
+    margin-top: 165px;
     color: white;
-    margin-top: 122px;
-}
-.box-button{
-    
-    border: 1px solid red;
-    margin-top: -150px;
-    margin-right: 26%;
-    
+    position: absolute;
 }
 .button{
-    border-radius: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    background-color: orange;
+    padding: 20px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    border: none;
+    
 }
-.downpart{
-    display: inline;
-    background-repeat: no-repeat;
-    background-image: url(images/Group_33094_1.png);
-    background-position: center;
-    background-size: 98%;
+
+.hire-me-button{
+    padding-left: 880px; 
+    padding-top: 225px;
+    
 }
 
 .Stays{
@@ -150,6 +139,20 @@ section{
     margin-left: 30px;
     margin-right: 30px;
 }
+
+.lastslass{
+    padding-bottom: 0%;
+    margin-top: 0%;
+   
+    
+   
+}
+.mainicon{
+    padding-bottom: 0%;
+    
+    
+}
+
 .footers{
     text-align: center;
     color: slategray;
